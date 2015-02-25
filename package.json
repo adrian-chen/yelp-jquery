@@ -1,5 +1,5 @@
 {
   "dependencies": {
-  },
-  "repository": "none"
+  	"oauth-1.0a": "*"
+  }
 }
