@@ -1,5 +1,6 @@
 {
   "dependencies": {
-  	"oauth-1.0a": "*"
+    "oauth-1.0a": "*",
+    "yelp": "^0.1.1"
   }
 }
